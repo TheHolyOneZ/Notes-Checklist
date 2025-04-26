@@ -2,6 +2,8 @@
 As the name suggests, this tool allows you to add detailed notes with full Markdown support, create checklists, and assign various statuses, making it easier to organize and track your tasks efficiently.
 
 Built with Electron and React - If u want the SourceCode DM me 
+> Download: https://zygnalbot.com/Notes/Notes-Checklist-Setup-1.0.0.exe
+
 
 ## Settings
 
