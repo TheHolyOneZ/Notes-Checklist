@@ -3,6 +3,7 @@ As the name suggests, this tool allows you to add detailed notes with full Markd
 
 Built with Electron and React - If u want the SourceCode DM me 
 > Download Version 1.0.1: https://zygnalbot.com/Notes/Notes-Checklist-Setup-1.0.1.exe
+
 > Download Version 1.0.0: https://zygnalbot.com/Notes/Notes-Checklist-Setup-1.0.0.exe
 
 
