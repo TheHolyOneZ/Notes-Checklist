@@ -1,3 +1,18 @@
+
+  # Notes-Checklist — Outdated                                                                                                                                                                       
+                              
+  This project is no longer maintained.                                                                                                                                                              
+                                                                                                                                                                                                     
+  **ZNotes** is the new version — rebuilt from scratch with a proper stack (React, Tauri v2, Rust), system tray, reminders, day planner, cross-platform installers, and a real dark UI.
+                                                                                                                                                                                                     
+  👉 **[Download ZNotes](https://zsync.eu/znotes/)** · [Source](https://github.com/TheHolyOneZ/ZNotes)
+             
+
+---
+
+
+
+
 # Notes-Checklist
 As the name suggests, this tool allows you to add detailed notes with full Markdown support, create checklists, and assign various statuses, making it easier to organize and track your tasks efficiently.
 
